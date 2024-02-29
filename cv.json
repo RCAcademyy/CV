@@ -1,0 +1,222 @@
+{
+  "basics": {
+    "name": "Raciel Chávez Ávila",
+    "label": "Lic. en Informática Administrativa",
+    "image": "https://avatars.githubusercontent.com/u/96958875?v=4",
+    "email": "raciel.chavez.uicslp.tmz@gmail.com",
+    "phone": "+52 4831181593",
+    "url": "",
+    "summary": "1 año de experiencia como Desarrollador Web. Actualmente soy Freelancer para un medio de comunicación digital y manteniéndome en constante aprendizaje para adaptarme a las nuevas tecnologías y tendencias del sector.",
+    "location": {
+      "address": "",
+      "postalCode": "43139",
+      "city": "Zacualtipanito Hidalgo",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "midudev",
+        "url": "https://linkedin.com/in/midudev"
+      },
+      {
+        "network": "X",
+        "username": "midudev",
+        "url": "https://x.com/midudev"
+      },
+      {
+        "network": "GitHub",
+        "username": "RCAcademy",
+        "url": "https://github.com/Razy-Cha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "La Gobernadora",
+      "position": "Desarrollador y Gestor de Contenido",
+      "url": "https://lagobernadora.site/",
+      "startDate": "2022-10-03",
+      "endDate": null,
+      "summary": "Implementé y administro un sitio web de noticias utilizando WordPress. Además, soy responsable de subir y gestionar el contenido del sitio, asegurando su actualización y relevancia continuas.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Compartamos Banco",
+      "position": "Atención a clientes",
+      "startDate": "2022-07-01",
+      "endDate": "2023-07-01",
+      "summary": "Proporcionaba información sobre los servicios que ofrece el banco. Además, brindaba apoyo a la oficina de Operaciones, colaborando en diversas tareas como: Ordenar expedientes, Guardar ajustes, Verificar la actualización de documentos, Arqueo de expedientes.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Canal 3 Tamazvision",
+      "position": "Editor de video",
+      "startDate": "2021-04-21",
+      "endDate": "2022-01-07",
+      "summary": "Era el responsable de editar contenido audiovisual para programas grabados, así como de gestionar la transmisión en tiempo real de eventos y programas en vivo.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Universidad Intercultural de San Luis Potosi",
+    "url": "https://www.uicslp.edu.mx/",
+    "area": "Informática Administrativa",
+    "studyType": "Bachelor",
+    "startDate": "2017-08-13",
+    "endDate": "2021-07-15",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Musify",
+      "isActive": true,
+      "description": "Clon de Spotify completamente funcional, con una interfaz de usuario dinámica y receptiva.",
+      "highlights": [
+        "API Spotify",
+        "ExpressJS & NodeJS"
+      ],
+      "url": "https://fb.watch/qvOSbE3NGR/"
+    },
+    {
+      "name": "Pixstock",
+      "isActive": true,
+      "description": "Plataforma de Stock Media Moderna y elegante. Cuenta con características esenciales.",
+      "highlights": [
+        "Pexels API",
+        "Modo claro y oscuro",
+        "JavaScript"
+      ],
+      "url": "pixstock-gilt.vercel.app"
+    },
+    {
+      "name": "Tvflix",
+      "isActive": true,
+      "description": "Aplicación Web de Tráilers y clips.",
+      "highlights": [
+        "TMDB API",
+        "JavaScript Vanilla"
+      ],
+      "url": "razy-cha.github.io/Tvflix/"
+    }
+  ]
+}
