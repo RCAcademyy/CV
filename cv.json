@@ -206,7 +206,7 @@
         "Modo claro y oscuro",
         "JavaScript"
       ],
-      "url": "pixstock-gilt.vercel.app"
+      "url": "https://pixstock-gilt.vercel.app/"
     },
     {
       "name": "Tvflix",
@@ -216,7 +216,7 @@
         "TMDB API",
         "JavaScript Vanilla"
       ],
-      "url": "razy-cha.github.io/Tvflix/"
+      "url": "https://razy-cha.github.io/Tvflix/"
     }
   ]
 }
