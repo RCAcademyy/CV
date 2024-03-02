@@ -10,21 +10,11 @@
     "location": {
       "address": "",
       "postalCode": "43139",
-      "city": "Zacualtipanito Hidalgo",
+      "city": "Zacualtipanito, Hidalgo",
       "countryCode": "MX",
       "region": "México"
     },
     "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "RCAcademy",
-        "url": "https://www.youtube.com/@RCAcademy24/videos"
-      },
-      {
-        "network": "X",
-        "username": "RCAcademy",
-        "url": "https://www.facebook.com/RCAcademy24"
-      },
       {
         "network": "GitHub",
         "username": "RCAcademy",
@@ -47,9 +37,10 @@
     {
       "name": "Compartamos Banco",
       "position": "Atención a clientes",
+      "url": "https://www.compartamos.com.mx/compartamos",
       "startDate": "2022-07-01",
       "endDate": "2023-07-01",
-      "summary": "Proporcionaba información sobre los servicios que ofrece el banco. Además, brindaba apoyo a la oficina de Operaciones, colaborando en diversas tareas como: Ordenar expedientes, Guardar ajustes, Verificar la actualización de documentos, Arqueo de expedientes.",
+      "summary": "Proporcioné información sobre los servicios que ofrece el banco. Además, brindé apoyo a la oficina de Operaciones, colaborando en diversas tareas como: Ordenar expedientes, Guardar ajustes, Verificar la actualización de documentos, Arqueo de expedientes.",
       "highlights": [
         "Started the company"
       ]
@@ -57,9 +48,10 @@
     {
       "name": "Canal 3 Tamazvision",
       "position": "Editor de video",
+      "url": "https://www.facebook.com/TamazVision3",
       "startDate": "2021-04-21",
       "endDate": "2022-01-07",
-      "summary": "Era el responsable de editar contenido audiovisual para programas grabados, así como de gestionar la transmisión en tiempo real de eventos y programas en vivo.",
+      "summary": "Edité contenido audiovisual para programas grabados, gestioné la transmisión en tiempo real de eventos y programas en vivo.",
       "highlights": [
         "Started the company"
       ]
@@ -137,6 +129,20 @@
       ]
     },
     {
+      "name": "PHP",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "CMS", "Temas", "Plugins"
+      ]
+    },
+    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": [
@@ -162,6 +168,20 @@
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Adobe Premiere",
+      "level": "Avanzado",
+      "keywords": [
+        "Edición de Video", "YouTube", "Tutoriales"
+      ]
+    },
+    {
+      "name": "Adobe Audition",
+      "level": "Avanzado",
+      "keywords": [
+        "Edición de Audio", "Podcast", "Spot"
       ]
     }
   ],
