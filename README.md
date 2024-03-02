@@ -13,4 +13,8 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 
 </p>
 
+![portada](https://github.com/Razy-Cha/CV/assets/96958875/4c8f0d58-8ff0-41a6-8586-a3ba9b506e46)
+
 </div>
+
+<img src="portada.png"></img>
